@@ -1,0 +1,1 @@
+Assignment 09 invloved array and data manipulation. Requirement 24 invloved extracting data using pandas from a csv file. The data was then graphed using matplotlib into a bar graph to visualize the heights of US presidents.
